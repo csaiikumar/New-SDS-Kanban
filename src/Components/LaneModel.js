@@ -16,6 +16,7 @@ Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git commit -m "updat
 [master e4accd6] update
  1 file changed, 1 insertion(+), 6 deletions(-)
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git status
+"WWWWWWWWWW Testing WWWWWWWW"
 On branch master
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
