@@ -40,4 +40,8 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/csaiikumar/New-SDS-Kanban.git
 ce275c3..e4accd6  master -> master
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ 
+<<<<<<< HEAD
 first Apple apple apple apple
+=======
+Apple apple apple apple second
+>>>>>>> 98cbe94a210e78711124c3e69bf5c7d7c99611cd
