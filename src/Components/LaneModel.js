@@ -24,6 +24,7 @@ Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
 nothing to commit, working tree clean
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git pull
+SDS sds sds sds sds 
 Already up-to-date.
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git push
 Counting objects: 5, done.
