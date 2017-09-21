@@ -28,6 +28,7 @@ Counting objects: 5, done.
 Delta compression using up to 4 threads.
 AAAAAAAA Testing Aaaaaaa
 Compressing objects: 100% (3/3), done.
+WWWwwwwwwww testing to the conflicts wwwwww
 Writing objects: 100% (5/5), 380 bytes | 0 bytes/s, done.
 Total 5 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
