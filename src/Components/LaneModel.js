@@ -8,6 +8,7 @@ no changes added to commit (use "git add" and/or "git commit -a"
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git add .
 Saikumars-MacBook-Pro:New-SDS-Kanban saikumarchinthakuntla$ git status
 On branch master
+wwwwwwwwwww Chnages made here these are the chcnages wwwwwwwwww
 Your branch is up-to-date with 'origin/master'.
 Changes to be committed:
 (use "git reset HEAD <file>..." to unstage)
